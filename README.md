@@ -75,6 +75,7 @@ data.head()
 ```
 Predicted value: 193075.97426510364
 ```
+
 ![image](https://github.com/user-attachments/assets/e69e029a-58c3-41a6-be82-865da56b438b)
 
 
